@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1578429843 source:c:\users\algoritmos\desktop\nueva carpeta\busqueda\main.cpp
+	<iostream>
+	<fstream>
+

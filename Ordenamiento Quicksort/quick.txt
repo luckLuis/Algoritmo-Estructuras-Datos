@@ -1,0 +1,16 @@
+Arreglo antes
+|1| |2| 
+Arreglo despues
+|1| |2| 
+Arreglo antes
+|2| |1| |0| 
+Arreglo despues
+|0| |0| |1| 
+Arreglo antes
+|2| |1| |2| 
+Arreglo despues
+|0| |1| |2| 
+Arreglo antes
+|2| |1| |2| 
+Arreglo despues
+|0| |1| |2| 

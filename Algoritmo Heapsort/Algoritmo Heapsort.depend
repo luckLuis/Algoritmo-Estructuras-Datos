@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1582212956 source:c:\users\algoritmos\desktop\nueva carpeta\algoritmo heapsort\main.cpp
+	<iostream>
+	"uno.h"
+	"dos.h"
+	"heapsort.h"
+
+1582213722 c:\users\algoritmos\desktop\nueva carpeta\algoritmo heapsort\uno.h
+
+1582213751 c:\users\algoritmos\desktop\nueva carpeta\algoritmo heapsort\dos.h
+
+1582213722 c:\users\algoritmos\desktop\nueva carpeta\algoritmo heapsort\heapsort.h
+
